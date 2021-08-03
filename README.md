@@ -1,6 +1,11 @@
 # Useful Blogs and Articles
 Links to different tech blogs and articles.
 
+# Python
+1. Read JSON file using Python
+
+   https://www.geeksforgeeks.org/read-json-file-using-python/?ref=leftbar-rightbar
+
 # Competitive Programming
 1. Competitive Programming - Some causes of Wrong Answer verdict
 
