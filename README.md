@@ -8,6 +8,10 @@ Links to different tech blogs and articles.
 
 2. https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32
 
+# JavaScript
+1. Arithmetic operation from input numbers
+
+   https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32
 
 # Competitive Programming
 1. Competitive Programming - Some causes of Wrong Answer verdict
