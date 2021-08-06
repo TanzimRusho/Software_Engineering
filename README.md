@@ -8,6 +8,9 @@ Links to different tech blogs and articles.
 
 2. https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32
 
+# Java
+1. https://google.github.io/styleguide/javaguide.html
+
 # JavaScript
 1. Arithmetic operation from input numbers
 
