@@ -6,10 +6,14 @@ Links to different tech blogs and articles.
 
    https://www.geeksforgeeks.org/read-json-file-using-python/?ref=leftbar-rightbar
 
-2. https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32
+2. Python Flask Machine Learning Web App
+
+   https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32
 
 # Java
-1. https://google.github.io/styleguide/javaguide.html
+1. Google Java Style Guide
+
+   https://google.github.io/styleguide/javaguide.html
 
 # JavaScript
 1. Arithmetic operation from input numbers
@@ -17,7 +21,9 @@ Links to different tech blogs and articles.
    https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32
 
 # C++
-1. https://google.github.io/styleguide/cppguide.html
+1. Google C++ Style Guide
+
+   https://google.github.io/styleguide/cppguide.html
 
 # Competitive Programming
 1. Competitive Programming - Some causes of Wrong Answer verdict
