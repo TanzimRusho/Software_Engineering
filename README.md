@@ -25,6 +25,11 @@ Links to different tech blogs and articles.
 
    https://google.github.io/styleguide/cppguide.html
 
+# Projects
+1. BUET Zenith | Orbital Sky
+
+   https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project
+
 # Competitive Programming
 1. Competitive Programming - Some causes of Wrong Answer verdict
 
