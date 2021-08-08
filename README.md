@@ -10,6 +10,10 @@ Links to different tech blogs and articles.
 
    https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32
 
+3. Python Programming And Numerical Methods: A Guide For Engineers And Scientists
+
+   https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html?fbclid=IwAR1AW59b_k1XjGwj89NQ7yn1gX9oYXIwmg1mptGHJo_yf4S4W3tYQRq-FOc
+
 # Java
 1. Google Java Style Guide
 
