@@ -43,6 +43,18 @@ Links to different tech blogs and articles.
 
    https://tahanima.github.io/2019/08/14/competitive-programming-some-causes-of-wa-verdict/
    
+2. Competitive Learning in Informatics: The UVa Online Judge Experience   
+   
+   https://ioinformatics.org/journal/INFOL035.pdf
+   
+3. Analyzing Programming Contest Statistics 
+
+   http://ioi.te.lv/workshop/dagstuhl_2006/RevisedPapers/13_Manzoor_rev-better.pdf
+   
+4. Common Mistakes in Online and Real-time Contests
+
+   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.848.2707&rep=rep1&type=pdf
+
 # Networks and Communications
 1. How to Find Your IP Address on Windows or Mac
 
