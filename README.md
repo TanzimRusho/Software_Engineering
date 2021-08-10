@@ -14,6 +14,10 @@ Links to different tech blogs and articles.
 
    https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html?fbclid=IwAR1AW59b_k1XjGwj89NQ7yn1gX9oYXIwmg1mptGHJo_yf4S4W3tYQRq-FOc
 
+4. Python get key from value in dictionary
+
+   https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/
+
 # Java
 1. Google Java Style Guide
 
