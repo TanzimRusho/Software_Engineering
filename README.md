@@ -55,6 +55,10 @@ Links to different tech blogs and articles.
 
    http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.848.2707&rep=rep1&type=pdf
 
+5. A Survey on Online Judge Systems and Their Applications
+
+   https://arxiv.org/pdf/1710.05913.pdf
+
 # Networks and Communications
 1. How to Find Your IP Address on Windows or Mac
 
