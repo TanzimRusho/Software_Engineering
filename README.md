@@ -18,6 +18,10 @@ Links to different tech blogs and articles.
 
    https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/
 
+5. Problem Solving with Algorithms and Data Structures using Python
+   
+   https://runestone.academy/runestone/books/published/pythonds/index.html
+
 # Java
 1. Google Java Style Guide
 
