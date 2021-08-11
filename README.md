@@ -63,6 +63,9 @@ Links to different tech blogs and articles.
 
    https://arxiv.org/pdf/1710.05913.pdf
 
+6. UVa Solves from quickgrid (Asif Ahmed)
+   
+   https://quickgrid.wordpress.com/category/online-judges/uva/
 # Networks and Communications
 1. How to Find Your IP Address on Windows or Mac
 
