@@ -70,3 +70,6 @@ Links to different tech blogs and articles.
 1. How to Find Your IP Address on Windows or Mac
 
    https://www.avast.com/c-how-to-find-ip-address
+
+# Career Path
+1. https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/
