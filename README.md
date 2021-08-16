@@ -21,6 +21,10 @@ Links to different tech blogs and articles.
 5. Problem Solving with Algorithms and Data Structures using Python
    
    https://runestone.academy/runestone/books/published/pythonds/index.html
+   
+6. Python Dictionary Comprehension
+
+   https://www.datacamp.com/community/tutorials/python-dictionary-comprehension
 
 # Java
 1. Google Java Style Guide
