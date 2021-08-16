@@ -32,6 +32,8 @@ Links to different tech blogs and articles.
 
    https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32
 
+2. https://morioh.com/p/767765e90c61?f=5c21fb01c16e2556b555ab32
+
 # C++
 1. Google C++ Style Guide
 
