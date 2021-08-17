@@ -14,6 +14,8 @@ Links to different tech blogs and articles.
    
 6. [Python Dictionary Comprehension](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
 
+7. [Security Camera with Python](https://morioh.com/p/1066401e3906?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0AA-x4r8r7bJkMwcTYXkuKJF7szYHsff3pvk0bEFsY5U8tK0Nl7fQHWQM)
+
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
