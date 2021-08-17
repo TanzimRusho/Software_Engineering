@@ -29,7 +29,7 @@ Links to different tech blogs and articles.
 1. [BUET Zenith | Orbital Sky](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project)
 
 # Competitive Programming
-1. [Competitive Programming - Some causes of Wrong Answer verdict](https://tahanima.github.io/2019/08/14/competitive-programming-some-causes-of-wa-verdict/
+1. [Competitive Programming - Some causes of Wrong Answer verdict](https://tahanima.github.io/2019/08/14/competitive-programming-some-causes-of-wa-verdict/)
    
 2. [Competitive Learning in Informatics: The UVa Online Judge Experience](https://ioinformatics.org/journal/INFOL035.pdf)
    
