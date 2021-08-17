@@ -44,5 +44,8 @@ Links to different tech blogs and articles.
 # Networks and Communications
 1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
 
+# GitHub
+1. [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
+
 # Career Path
 1. [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
