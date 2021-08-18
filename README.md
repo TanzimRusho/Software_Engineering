@@ -18,6 +18,8 @@ Links to different tech blogs and articles.
 
 8. [How to format a floating number in Python](https://www.kite.com/python/answers/how-to-format-a-floating-number-in-python)
 
+9. [10 Must Know Python Basics](https://morioh.com/p/deaacc51d64c?f=5c21fb01c16e2556b555ab32)
+
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
