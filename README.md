@@ -28,6 +28,8 @@ Links to different tech blogs and articles.
 
 2. [how to create a Realtime Chat App with NodeJS and Pusher](https://morioh.com/p/767765e90c61?f=5c21fb01c16e2556b555ab32)
 
+3. [10 Simple JavaScript Projects for Beginners](https://morioh.com/p/feadd995ec2e?f=5c21fb01c16e2556b555ab32)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
