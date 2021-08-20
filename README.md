@@ -60,6 +60,9 @@ Links to different tech blogs and articles.
 # Networks and Communications
 1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
 
+# Electronics
+1. [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
+
 # Developers' Community
 1. [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
 
