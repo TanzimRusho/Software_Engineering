@@ -27,7 +27,6 @@ Links to different tech blogs and articles.
 # Machine Learning
 1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
 
-
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
@@ -37,6 +36,8 @@ Links to different tech blogs and articles.
 2. [how to create a Realtime Chat App with NodeJS and Pusher](https://morioh.com/p/767765e90c61?f=5c21fb01c16e2556b555ab32)
 
 3. [10 Simple JavaScript Projects for Beginners](https://morioh.com/p/feadd995ec2e?f=5c21fb01c16e2556b555ab32)
+
+4. [Build Weather App Using HTML, CSS, Bootstrap, and Modern JavaScript](https://morioh.com/p/7ee6b0b1531f?f=5c7364649bd9694dcea8f9e1)
 
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
