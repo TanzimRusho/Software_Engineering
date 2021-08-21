@@ -4,28 +4,30 @@ Links to different tech blogs and articles.
 # Python
 1. [Read JSON file using Python](https://www.geeksforgeeks.org/read-json-file-using-python/?ref=leftbar-rightbar)
 
-2. [Python Flask Machine Learning Web App](https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32)
+2. [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html?fbclid=IwAR1AW59b_k1XjGwj89NQ7yn1gX9oYXIwmg1mptGHJo_yf4S4W3tYQRq-FOc)
 
-3. [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html?fbclid=IwAR1AW59b_k1XjGwj89NQ7yn1gX9oYXIwmg1mptGHJo_yf4S4W3tYQRq-FOc)
+3. [Python get key from value in dictionary](https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/)
 
-4. [Python get key from value in dictionary](https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/)
-
-5. [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+4. [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
    
-6. [Python Dictionary Comprehension](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
+5. [Python Dictionary Comprehension](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
 
-7. [Security Camera with Python](https://morioh.com/p/1066401e3906?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0AA-x4r8r7bJkMwcTYXkuKJF7szYHsff3pvk0bEFsY5U8tK0Nl7fQHWQM)
+6. [Security Camera with Python](https://morioh.com/p/1066401e3906?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0AA-x4r8r7bJkMwcTYXkuKJF7szYHsff3pvk0bEFsY5U8tK0Nl7fQHWQM)
 
-8. [How to format a floating number in Python](https://www.kite.com/python/answers/how-to-format-a-floating-number-in-python)
+7. [How to format a floating number in Python](https://www.kite.com/python/answers/how-to-format-a-floating-number-in-python)
 
-9. [10 Must Know Python Basics](https://morioh.com/p/deaacc51d64c?f=5c21fb01c16e2556b555ab32)
+8. [10 Must Know Python Basics](https://morioh.com/p/deaacc51d64c?f=5c21fb01c16e2556b555ab32)
 
-10. [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
+9. [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 
-11. [Python DS Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
+10. [Python DS Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
 
 # Machine Learning
 1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
+
+2. [TensorFlow Object Detection in 5 Hours](https://morioh.com/p/394e0ce5e3ac?f=5c21fb01c16e2556b555ab32)
+
+3. [Python Flask Machine Learning Web App](https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32)
 
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
