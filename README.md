@@ -29,6 +29,9 @@ Links to different tech blogs and articles.
 
 3. [Python Flask Machine Learning Web App](https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32)
 
+4. [Lex Fridman Google Scholar](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en)
+
+
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
