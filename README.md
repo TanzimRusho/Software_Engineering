@@ -22,6 +22,8 @@ Links to different tech blogs and articles.
 
 10. [Python DS Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
 
+11. [Python Program to Generate Random binary string](https://www.geeksforgeeks.org/python-program-to-generate-random-binary-string/)
+
 # Machine Learning
 1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
 
