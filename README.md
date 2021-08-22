@@ -46,6 +46,8 @@ Links to different tech blogs and articles.
 
 4. [Build Weather App Using HTML, CSS, Bootstrap, and Modern JavaScript](https://morioh.com/p/7ee6b0b1531f?f=5c7364649bd9694dcea8f9e1)
 
+5. [ReactJS Roadmap for Beginners](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
