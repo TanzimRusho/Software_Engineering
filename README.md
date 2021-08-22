@@ -67,6 +67,8 @@ Links to different tech blogs and articles.
 
 6. [UVa Solves from quickgrid (Asif Ahmed)](https://quickgrid.wordpress.com/category/online-judges/uva/)
 
+7. [Minimum delete operations to make all elements of array same](https://www.geeksforgeeks.org/minimum-delete-operations-make-elements-array/)
+
 # Networks and Communications
 1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
 
