@@ -68,6 +68,8 @@ Links to different tech blogs and articles.
 
 7. [Minimum delete operations to make all elements of array same](https://www.geeksforgeeks.org/minimum-delete-operations-make-elements-array/)
 
+8. [MATHEMATICS FOR TOPCODERS](https://www.topcoder.com/thrive/articles/Mathematics%20for%20Topcoders)
+
 # Networks and Communications
 1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
 
