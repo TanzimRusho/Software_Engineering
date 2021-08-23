@@ -73,6 +73,7 @@ Links to different tech blogs and articles.
 
 # Security
 1. [Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
+2. [How Bitcoin works (Bangla)](http://www.mahdimashrur.net/how-bitcoin-works/)
 
 # Electronics
 1. [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
