@@ -33,7 +33,6 @@ Links to different tech blogs and articles.
 
 4. [Lex Fridman Google Scholar](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en)
 
-
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
@@ -86,3 +85,6 @@ Links to different tech blogs and articles.
 
 # Career Path
 1. [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
+
+# Coding Interview
+1. [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
