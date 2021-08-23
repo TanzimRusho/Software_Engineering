@@ -33,6 +33,8 @@ Links to different tech blogs and articles.
 
 4. [Lex Fridman Google Scholar](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en)
 
+5. [Machine Learning Books](https://www.techprofree.com/category/books/)
+
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
