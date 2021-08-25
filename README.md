@@ -26,6 +26,8 @@ Links to different tech blogs and articles.
 
 12. [Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
 
+13. [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
+
 # Machine Learning
 1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
 
