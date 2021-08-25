@@ -24,6 +24,8 @@ Links to different tech blogs and articles.
 
 11. [Python Program to Generate Random binary string](https://www.geeksforgeeks.org/python-program-to-generate-random-binary-string/)
 
+12. [Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
+
 # Machine Learning
 1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
 
