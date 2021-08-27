@@ -42,6 +42,8 @@ Links to different tech blogs and articles.
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
+2. [java.math Class BigInteger](https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html#isProbablePrime%28int%29)
+
 # JavaScript
 1. [Arithmetic operation from input numbers](https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32)
 
