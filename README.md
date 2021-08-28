@@ -28,6 +28,9 @@ Links to different tech blogs and articles.
 
 13. [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
 
+# Artificial Intelligence
+1. [Bengali AI](https://bengali.ai/)
+
 # Machine Learning
 1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
 
