@@ -55,6 +55,8 @@ Links to different tech blogs and articles.
 
 5. [ReactJS Roadmap for Beginners](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
 
+6. [Basic Concepts of Node.js](https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
