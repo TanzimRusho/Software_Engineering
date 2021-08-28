@@ -92,6 +92,7 @@ Links to different tech blogs and articles.
 
 # Developers' Community
 1. [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
+2. [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com/)
 
 # GitHub
 1. [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
