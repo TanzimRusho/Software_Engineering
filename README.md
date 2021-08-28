@@ -42,6 +42,9 @@ Links to different tech blogs and articles.
 
 5. [Machine Learning Books](https://www.techprofree.com/category/books/)
 
+# Deep Learning
+1. [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
+
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
