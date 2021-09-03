@@ -90,6 +90,9 @@ Links to different tech blogs and articles.
 
 8. [MATHEMATICS FOR TOPCODERS](https://www.topcoder.com/thrive/articles/Mathematics%20for%20Topcoders)
 
+# Software Engineering
+1. [SOLID](https://en.wikipedia.org/wiki/SOLID)
+
 # Networks and Communications
 1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
 
