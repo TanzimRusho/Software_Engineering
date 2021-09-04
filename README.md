@@ -90,6 +90,9 @@ Links to different tech blogs and articles.
 
 8. [MATHEMATICS FOR TOPCODERS](https://www.topcoder.com/thrive/articles/Mathematics%20for%20Topcoders)
 
+# Front End Development 
+1. [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
+
 # Software Engineering
 1. [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
