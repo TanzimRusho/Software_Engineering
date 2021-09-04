@@ -96,6 +96,9 @@ Links to different tech blogs and articles.
 # Software Engineering
 1. [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
+# DevOps
+1. [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers?utm_medium=social_paid&utm_source=facebook&utm_campaign=global_k8s_content_en_clicks&utm_content=content&fbclid=IwAR299H6Vu03lOIYEFeqsBuuDVjo5ondMLFghh71Y-1NL0NW0mB7IipbOsuc)
+
 # Networks and Communications
 1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
 
