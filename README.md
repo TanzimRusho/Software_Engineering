@@ -102,6 +102,7 @@ Links to different tech blogs and articles.
 
 # Electronics
 1. [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
+2. [এলইডি কম শক্তিতে এত বেশি আলো দেয় কীভাবে?](https://www.kishoralo.com/feature/%E0%A6%8F%E0%A6%B2%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%95%E0%A6%AE-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A7%9F-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87?fbclid=IwAR2mpRIo-86zdUvVezRl_r3KLueGQ20lii1hVhPGiR-U7pk9elmtpNiLXxI)
 
 # Developers' Community
 1. [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
