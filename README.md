@@ -93,6 +93,9 @@ Links to different tech blogs and articles.
 # Front End Development 
 1. [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
 
+# API Development
+1. [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+
 # Software Engineering
 1. [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
