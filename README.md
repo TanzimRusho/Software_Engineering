@@ -129,5 +129,8 @@ Links to different tech blogs and articles.
 # Coding Interview
 1. [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
 
+# Technical Writing
+1. [APA - Referencing Guide](https://libguides.murdoch.edu.au/APA)
+
 # Copyright Laws
 1. [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
