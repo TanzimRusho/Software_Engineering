@@ -96,6 +96,9 @@ Links to different tech blogs and articles.
 # API Development
 1. [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 
+# Web Scraping
+1. [Building a Web Scraper with Python in 30 minutes](https://morioh.com/p/af25684f4605?f=5c21fb01c16e2556b555ab32)
+
 # Software Engineering
 1. [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
