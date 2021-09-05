@@ -70,8 +70,8 @@ Links to different tech blogs and articles.
 
 # Projects
 1. [BUET Zenith | Orbital Sky](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project)
-
 2. [GitHub Stats](https://github.com/jackiehluo/github-stats)
+3. [18 Amazing GitHub Projects](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)
 
 # Competitive Programming
 1. [Competitive Programming - Some causes of Wrong Answer verdict](https://tahanima.github.io/2019/08/14/competitive-programming-some-causes-of-wa-verdict/)
