@@ -132,5 +132,9 @@ Links to different tech blogs and articles.
 # Technical Writing
 1. [APA - Referencing Guide](https://libguides.murdoch.edu.au/APA)
 
+# Portfolio
+1. [Creating a simple and effective academic personal website](https://www.elsevier.com/connect/creating-a-simple-and-effective-academic-personal-website)
+2. [What are the best options for creating a personal website to showcase your research?](https://www.researchgate.net/post/What-are-the-best-options-for-creating-a-personal-website-to-showcase-your-research)
+
 # Copyright Laws
 1. [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
