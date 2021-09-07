@@ -68,12 +68,16 @@ Links to different tech blogs and articles.
 
 6. [Basic Concepts of Node.js](https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch)
 
+7. [How to hide and show DIV element using JavaScript](https://morioh.com/p/eff8ae2b63de?f=60c59d87cb33627fbcc0a0f3)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 # Projects
 1. [BUET Zenith | Orbital Sky](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project)
+
 2. [GitHub Stats](https://github.com/jackiehluo/github-stats)
+
 3. [18 Amazing GitHub Projects](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)
 
 # Competitive Programming
@@ -95,6 +99,7 @@ Links to different tech blogs and articles.
 
 # Android Development
 1. [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
+
 2. [Java, অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ও Android - shikkhok.com](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/java-android-101/)
 
 # Front End Development 
@@ -117,14 +122,17 @@ Links to different tech blogs and articles.
 
 # Security
 1. [Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
+
 2. [How Bitcoin works (Bangla)](http://www.mahdimashrur.net/how-bitcoin-works/)
 
 # Electronics
 1. [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
+
 2. [এলইডি কম শক্তিতে এত বেশি আলো দেয় কীভাবে?](https://www.kishoralo.com/feature/%E0%A6%8F%E0%A6%B2%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%95%E0%A6%AE-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A7%9F-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87?fbclid=IwAR2mpRIo-86zdUvVezRl_r3KLueGQ20lii1hVhPGiR-U7pk9elmtpNiLXxI)
 
 # Developers' Community
 1. [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
+
 2. [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com/)
 
 # GitHub
@@ -141,6 +149,7 @@ Links to different tech blogs and articles.
 
 # Portfolio
 1. [Creating a simple and effective academic personal website](https://www.elsevier.com/connect/creating-a-simple-and-effective-academic-personal-website)
+
 2. [What are the best options for creating a personal website to showcase your research?](https://www.researchgate.net/post/What-are-the-best-options-for-creating-a-personal-website-to-showcase-your-research)
 
 # Copyright Laws
