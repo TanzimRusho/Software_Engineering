@@ -92,6 +92,7 @@ Links to different tech blogs and articles.
 
 # Android Development
 1. [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
+2. [Java, অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ও Android - shikkhok.com](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/java-android-101/)
 
 # Front End Development 
 1. [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
