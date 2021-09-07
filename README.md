@@ -138,6 +138,8 @@ Links to different tech blogs and articles.
 # GitHub
 1. [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
 
+2. [How to write git commit message](https://chris.beams.io/posts/git-commit/)
+
 # Career Path
 1. [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
 
