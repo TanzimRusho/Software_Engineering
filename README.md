@@ -45,6 +45,9 @@ Links to different tech blogs and articles.
 # Deep Learning
 1. [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
 
+# Computer Vision
+1. [কম্পিউটার ভিশন পরিচিতি](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/computer-vision/)
+
 # Java
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
