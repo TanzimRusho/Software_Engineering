@@ -125,6 +125,9 @@ Links to different tech blogs and articles.
 
 2. [How Bitcoin works (Bangla)](http://www.mahdimashrur.net/how-bitcoin-works/)
 
+# Computer Architecture
+1. [Cylinder-head-sector](https://en.wikipedia.org/wiki/Cylinder-head-sector)
+
 # Electronics
 1. [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
 
