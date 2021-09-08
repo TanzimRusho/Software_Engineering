@@ -128,6 +128,8 @@ Links to different tech blogs and articles.
 # Computer Architecture
 1. [Cylinder-head-sector](https://en.wikipedia.org/wiki/Cylinder-head-sector)
 
+2. [Magnetic Disk | Practice Problems | COA](https://www.gatevidyalay.com/magnetic-disk-practice-problems-coa/)
+
 # Electronics
 1. [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
 
