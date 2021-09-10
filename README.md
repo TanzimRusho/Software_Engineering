@@ -164,5 +164,7 @@ Links to different tech blogs and articles.
 # Tools
 1. [Wecompress (Online File Compressor)](https://www.wecompress.com/en/)
 
+2. [True Caller](https://www.truecaller.com)
+
 # Copyright Laws
 1. [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
