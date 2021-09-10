@@ -70,6 +70,8 @@ Links to different tech blogs and articles.
 
 7. [How to hide and show DIV element using JavaScript](https://morioh.com/p/eff8ae2b63de?f=60c59d87cb33627fbcc0a0f3)
 
+8. [Email Validation with JavaScript](https://morioh.com/p/a4caffb57bd4?f=5c21fb01c16e2556b555ab32)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
