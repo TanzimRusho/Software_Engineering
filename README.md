@@ -159,5 +159,8 @@ Links to different tech blogs and articles.
 
 2. [What are the best options for creating a personal website to showcase your research?](https://www.researchgate.net/post/What-are-the-best-options-for-creating-a-personal-website-to-showcase-your-research)
 
+# Tools
+1. [Wecompress (Online File Compressor)](https://www.wecompress.com/en/)
+
 # Copyright Laws
 1. [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
