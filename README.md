@@ -31,6 +31,8 @@ Links to different tech blogs and articles.
 # Artificial Intelligence
 1. [Bengali AI](https://bengali.ai/)
 
+2. [Financial AI Assistant in Python](https://morioh.com/p/a54ad25c873e?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1p_RYOEZ4nvOXB8RFipLf3f_6r3KCAdSEhajySdFqX7S_STkJsYv7qcG4)
+
 # Machine Learning
 1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
 
