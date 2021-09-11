@@ -72,6 +72,8 @@ Links to different tech blogs and articles.
 
 8. [Email Validation with JavaScript](https://morioh.com/p/a4caffb57bd4?f=5c21fb01c16e2556b555ab32)
 
+9. [Learn Promise, Async/Await with 4 tasks in 20 minutes 2021 | JavaScript Tutorial](https://morioh.com/p/7fd794eb128f?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1W3jirj8s_n89pdOLUXAnGirySK_7bqGN4AbLiCfrFyomcBbiVm1Vj8_k)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
