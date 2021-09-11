@@ -168,6 +168,8 @@ Links to different tech blogs and articles.
 
 2. [What are the best options for creating a personal website to showcase your research?](https://www.researchgate.net/post/What-are-the-best-options-for-creating-a-personal-website-to-showcase-your-research)
 
+3. [Portfolio Website using HTML, CSS & Javascript | Responsive](https://morioh.com/p/e8f68498ef19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0zhLWN6vpGa9d0UBf4I5QeXYXLU6au2ucfrnXMUaAFXtGRDuEHsAET-uM)
+
 # Tools
 1. [Wecompress (Online File Compressor)](https://www.wecompress.com/en/)
 
