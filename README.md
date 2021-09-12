@@ -28,6 +28,8 @@ Links to different tech blogs and articles.
 
 13. [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
 
+14. [OTP Generator Project in Python](https://morioh.com/p/1f268d5fa7a3?f=5c21fb01c16e2556b555ab32)
+
 # Artificial Intelligence
 1. [Bengali AI](https://bengali.ai/)
 
