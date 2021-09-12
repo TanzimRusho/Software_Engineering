@@ -80,6 +80,8 @@ Links to different tech blogs and articles.
 
 9. [Learn Promise, Async/Await with 4 tasks in 20 minutes 2021 | JavaScript Tutorial](https://morioh.com/p/7fd794eb128f?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1W3jirj8s_n89pdOLUXAnGirySK_7bqGN4AbLiCfrFyomcBbiVm1Vj8_k)
 
+10. [How JavaScript Works | Visually Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
