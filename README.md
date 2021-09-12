@@ -30,6 +30,8 @@ Links to different tech blogs and articles.
 
 14. [OTP Generator Project in Python](https://morioh.com/p/1f268d5fa7a3?f=5c21fb01c16e2556b555ab32)
 
+15. [Single Responsibility Principle (SRP) in Python](https://renanmf.com/single-responsibility-principle-in-python/)
+
 # Artificial Intelligence
 1. [Bengali AI](https://bengali.ai/)
 
@@ -133,6 +135,8 @@ Links to different tech blogs and articles.
 
 # Networks and Communications
 1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
+
+2. [A Simple Explanation of a 502 Bad Gateway Error & How to Resolve It](https://blog.hubspot.com/marketing/502-bad-gateway)
 
 # Security
 1. [Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
