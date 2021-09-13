@@ -84,6 +84,8 @@ Links to different tech blogs and articles.
 
 10. [How JavaScript Works | Visually Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
 
+11. [20 JavaScript: Array Methods](https://morioh.com/p/d05e069353a9?f=5c21fb01c16e2556b555ab32)
+
 # C++
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
