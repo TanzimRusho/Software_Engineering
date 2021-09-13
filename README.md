@@ -61,6 +61,8 @@ Links to different tech blogs and articles.
 
 3. [Reverse a string in Java](https://www.geeksforgeeks.org/reverse-a-string-in-java/)
 
+4. [Java Static Variables and Methods](https://www.guru99.com/java-static-variable-methods.html)
+
 # JavaScript
 1. [Arithmetic operation from input numbers](https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32)
 
