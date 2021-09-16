@@ -32,6 +32,8 @@ Links to different tech blogs and articles.
 
 15. [Single Responsibility Principle (SRP) in Python](https://renanmf.com/single-responsibility-principle-in-python/)
 
+16. [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
+
 # Artificial Intelligence
 1. [Bengali AI](https://bengali.ai/)
 
