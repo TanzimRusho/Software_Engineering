@@ -121,6 +121,8 @@ Links to different tech blogs and articles.
 # Front End Development 
 1. [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
 
+2. [29 Projects To Help You Practice HTML CSS Javascript 2021](https://www.niemvuilaptrinh.com/article/29-project-giup-ban-thuc-hanh-html-css-javascript-2021)
+
 # API Development
 1. [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 
