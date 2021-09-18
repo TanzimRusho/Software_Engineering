@@ -52,6 +52,8 @@ Links to different tech blogs and articles.
 
 6. [Flagging suspicious healthcare claims with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/)
 
+7. [Bias-Variance Tradeoff - Wikipedia](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+
 # Deep Learning
 1. [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
 
