@@ -50,6 +50,8 @@ Links to different tech blogs and articles.
 
 5. [Machine Learning Books](https://www.techprofree.com/category/books/)
 
+6. [Flagging suspicious healthcare claims with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/)
+
 # Deep Learning
 1. [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
 
