@@ -2,37 +2,23 @@
 Links to different tech blogs and articles.
 
 ## Python
-1. [Read JSON file using Python](https://www.geeksforgeeks.org/read-json-file-using-python/?ref=leftbar-rightbar)
-
-2. [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html?fbclid=IwAR1AW59b_k1XjGwj89NQ7yn1gX9oYXIwmg1mptGHJo_yf4S4W3tYQRq-FOc)
-
-3. [Python get key from value in dictionary](https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/)
-
-4. [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-   
-5. [Python Dictionary Comprehension](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
-
-6. [Security Camera with Python](https://morioh.com/p/1066401e3906?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0AA-x4r8r7bJkMwcTYXkuKJF7szYHsff3pvk0bEFsY5U8tK0Nl7fQHWQM)
-
-7. [How to format a floating number in Python](https://www.kite.com/python/answers/how-to-format-a-floating-number-in-python)
-
-8. [10 Must Know Python Basics](https://morioh.com/p/deaacc51d64c?f=5c21fb01c16e2556b555ab32)
-
-9. [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
-
-10. [Python DS Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
-
-11. [Python Program to Generate Random binary string](https://www.geeksforgeeks.org/python-program-to-generate-random-binary-string/)
-
-12. [Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
-
-13. [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
-
-14. [OTP Generator Project in Python](https://morioh.com/p/1f268d5fa7a3?f=5c21fb01c16e2556b555ab32)
-
-15. [Single Responsibility Principle (SRP) in Python](https://renanmf.com/single-responsibility-principle-in-python/)
-
-16. [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
+* [Read JSON file using Python](https://www.geeksforgeeks.org/read-json-file-using-python/?ref=leftbar-rightbar)
+* [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html?fbclid=IwAR1AW59b_k1XjGwj89NQ7yn1gX9oYXIwmg1mptGHJo_yf4S4W3tYQRq-FOc)
+* [Python get key from value in dictionary](https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/)
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+* [Python Dictionary Comprehension](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
+* [Security Camera with Python](https://morioh.com/p/1066401e3906?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0AA-x4r8r7bJkMwcTYXkuKJF7szYHsff3pvk0bEFsY5U8tK0Nl7fQHWQM)
+* [How to format a floating number in Python](https://www.kite.com/python/answers/how-to-format-a-floating-number-in-python)
+* [10 Must Know Python Basics](https://morioh.com/p/deaacc51d64c?f=5c21fb01c16e2556b555ab32)
+* [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
+* [Python DS Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
+* [Python Program to Generate Random binary string](https://www.geeksforgeeks.org/python-program-to-generate-random-binary-string/)
+* [Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
+* [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
+* [OTP Generator Project in Python](https://morioh.com/p/1f268d5fa7a3?f=5c21fb01c16e2556b555ab32)
+* [Single Responsibility Principle (SRP) in Python](https://renanmf.com/single-responsibility-principle-in-python/)
+* [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
+* [30 seconds of Python](https://github.com/30-seconds/30-seconds-of-python)
 
 ## Flask
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 
