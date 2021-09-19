@@ -43,6 +43,9 @@ Links to different tech blogs and articles.
 * [Build a model to predict the impact of weather on urban air quality using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/)
 * [Free Programming Books | Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#machine-learning)
 
+# TensorFlow
+* [Learn TensorFlow](https://bitbucket.org/hrojas/learn-tensorflow/src/master/)
+
 ## Deep Learning
 1. [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
 
