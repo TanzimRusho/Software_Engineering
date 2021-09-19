@@ -169,11 +169,10 @@ Links to different tech blogs and articles.
 2. [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com/)
 
 ## GitHub
-1. [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
-
-2. [How to write git commit message](https://chris.beams.io/posts/git-commit/)
-
-3. [10 github repositories you should know as developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
+* [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
+* [How to write git commit message](https://chris.beams.io/posts/git-commit/)
+* [10 github repositories you should know as developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
+* [Free Programming Books | Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#git)
 
 ## Career Path
 1. [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
@@ -194,9 +193,8 @@ Links to different tech blogs and articles.
 3. [Portfolio Website using HTML, CSS & Javascript | Responsive](https://morioh.com/p/e8f68498ef19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0zhLWN6vpGa9d0UBf4I5QeXYXLU6au2ucfrnXMUaAFXtGRDuEHsAET-uM)
 
 ## Tools
-1. [Wecompress (Online File Compressor)](https://www.wecompress.com/en/)
-
-2. [True Caller](https://www.truecaller.com)
+* [Wecompress (Online File Compressor)](https://www.wecompress.com/en/)
+* [True Caller](https://www.truecaller.com)
 
 ## Copyright Laws
 1. [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
