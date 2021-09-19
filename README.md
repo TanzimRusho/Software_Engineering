@@ -47,20 +47,18 @@ Links to different tech blogs and articles.
 * [Learn TensorFlow](https://bitbucket.org/hrojas/learn-tensorflow/src/master/)
 
 ## Deep Learning
-1. [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
+* [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
 
 ## Computer Vision
 * [কম্পিউটার ভিশন পরিচিতি](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/computer-vision/)
 * [Free Programming Books | Computer Vision](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#computer-vision)
 
 ## Java
-1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-
-2. [java.math Class BigInteger](https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html#isProbablePrime%28int%29)
-
-3. [Reverse a string in Java](https://www.geeksforgeeks.org/reverse-a-string-in-java/)
-
-4. [Java Static Variables and Methods](https://www.guru99.com/java-static-variable-methods.html)
+* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [java.math Class BigInteger](https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html#isProbablePrime%28int%29)
+* [Reverse a string in Java](https://www.geeksforgeeks.org/reverse-a-string-in-java/)
+* [Java Static Variables and Methods](https://www.guru99.com/java-static-variable-methods.html)
+* [Java Cheatsheet | Devsonket](https://devsonket.com/java-cheat-sheet/)
 
 ## HTML/CSS
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
@@ -198,6 +196,7 @@ Links to different tech blogs and articles.
 * [How to write git commit message](https://chris.beams.io/posts/git-commit/)
 * [10 github repositories you should know as developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
 * [Free Programming Books | Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#git)
+* [Git Cheatsheet](https://devsonket.com/git-cheat-sheet/)
 
 ## Career Path
 1. [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
