@@ -60,7 +60,10 @@ Links to different tech blogs and articles.
 
 ## HTML/CSS
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
-* [Free Programming Books | HTML/CSS](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#html--css)
+* [Free Programming Books on HTML/CSS](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#html--css)
+
+## Laravel
+* [Free Programming Books on Laravel](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#laravel)
 
 ## JavaScript
 1. [Arithmetic operation from input numbers](https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32)
