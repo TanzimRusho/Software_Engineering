@@ -64,6 +64,7 @@ Links to different tech blogs and articles.
 ## HTML/CSS
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
 * [Free Programming Books on HTML/CSS](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#html--css)
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
 ## Laravel
 * [Free Programming Books on Laravel](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#laravel)
