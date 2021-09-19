@@ -34,10 +34,13 @@ Links to different tech blogs and articles.
 
 16. [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
 
-## Artificial Intelligence
-1. [Bengali AI](https://bengali.ai/)
+## Flask
+* [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 
 
-2. [Financial AI Assistant in Python](https://morioh.com/p/a54ad25c873e?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1p_RYOEZ4nvOXB8RFipLf3f_6r3KCAdSEhajySdFqX7S_STkJsYv7qcG4)
+## Artificial Intelligence
+* [Bengali AI](https://bengali.ai/)
+
+* [Financial AI Assistant in Python](https://morioh.com/p/a54ad25c873e?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1p_RYOEZ4nvOXB8RFipLf3f_6r3KCAdSEhajySdFqX7S_STkJsYv7qcG4)
 
 ## Machine Learning
 * [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
