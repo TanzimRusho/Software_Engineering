@@ -25,6 +25,9 @@ Links to different tech blogs and articles.
 * [Flask Documentation | PalletsProjects](https://flask.palletsprojects.com/en/2.0.x/)
 * [Explore Flask Book](https://exploreflask.com/en/latest/)
 
+## Django
+* [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
+
 ## Artificial Intelligence
 * [Bengali AI](https://bengali.ai/)
 * [Financial AI Assistant in Python](https://morioh.com/p/a54ad25c873e?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1p_RYOEZ4nvOXB8RFipLf3f_6r3KCAdSEhajySdFqX7S_STkJsYv7qcG4)
