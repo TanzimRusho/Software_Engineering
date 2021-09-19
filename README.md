@@ -54,8 +54,9 @@ Links to different tech blogs and articles.
 
 4. [Java Static Variables and Methods](https://www.guru99.com/java-static-variable-methods.html)
 
-## HTML
+## HTML/CSS
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
+* [Free Programming Books | HTML/CSS](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#html--css)
 
 ## JavaScript
 1. [Arithmetic operation from input numbers](https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32)
