@@ -40,21 +40,23 @@ Links to different tech blogs and articles.
 2. [Financial AI Assistant in Python](https://morioh.com/p/a54ad25c873e?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1p_RYOEZ4nvOXB8RFipLf3f_6r3KCAdSEhajySdFqX7S_STkJsYv7qcG4)
 
 ## Machine Learning
-1. [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
+* [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
 
-2. [TensorFlow Object Detection in 5 Hours](https://morioh.com/p/394e0ce5e3ac?f=5c21fb01c16e2556b555ab32)
+* [TensorFlow Object Detection in 5 Hours](https://morioh.com/p/394e0ce5e3ac?f=5c21fb01c16e2556b555ab32)
 
-3. [Python Flask Machine Learning Web App](https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32)
+* [Python Flask Machine Learning Web App](https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32)
 
-4. [Lex Fridman Google Scholar](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en)
+* [Lex Fridman Google Scholar](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en)
 
-5. [Machine Learning Books](https://www.techprofree.com/category/books/)
+* [Machine Learning Books](https://www.techprofree.com/category/books/)
 
-6. [Flagging suspicious healthcare claims with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/)
+* [Flagging suspicious healthcare claims with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/)
 
-7. [Bias-Variance Tradeoff - Wikipedia](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+* [Bias-Variance Tradeoff - Wikipedia](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
 
-8. [Build a model to predict the impact of weather on urban air quality using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/)
+* [Build a model to predict the impact of weather on urban air quality using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/)
+
+* [Free Programming Books | Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#machine-learning)
 
 ## Deep Learning
 1. [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
