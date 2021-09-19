@@ -179,6 +179,8 @@ Links to different tech blogs and articles.
 
 2. [How to write git commit message](https://chris.beams.io/posts/git-commit/)
 
+3. [10 github repositories you should know as developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
+
 # Career Path
 1. [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
 
