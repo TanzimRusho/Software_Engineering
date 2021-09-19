@@ -161,9 +161,9 @@ Links to different tech blogs and articles.
 2. [A Simple Explanation of a 502 Bad Gateway Error & How to Resolve It](https://blog.hubspot.com/marketing/502-bad-gateway)
 
 ## Security
-1. [Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
-
-2. [How Bitcoin works (Bangla)](http://www.mahdimashrur.net/how-bitcoin-works/)
+* [Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
+* [How Bitcoin works (Bangla)](http://www.mahdimashrur.net/how-bitcoin-works/)
+* [Free Programming Books on Security](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#security)
 
 ## Computer Architecture
 1. [Cylinder-head-sector](https://en.wikipedia.org/wiki/Cylinder-head-sector)
