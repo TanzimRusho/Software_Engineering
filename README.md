@@ -96,6 +96,7 @@ Links to different tech blogs and articles.
 
 ## Flutter
 * [Flutter Cookbook](https://flutter.dev/docs/cookbook)
+* [Flutter Tutorial's Handbook](https://kodestat.gitbook.io/flutter/)
 
 # NoSQL
 * [Free Programming Books on NoSQL](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#nosql)
