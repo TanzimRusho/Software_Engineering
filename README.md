@@ -61,6 +61,9 @@ Links to different tech blogs and articles.
 * [Java Static Variables and Methods](https://www.guru99.com/java-static-variable-methods.html)
 * [Java Cheatsheet | Devsonket](https://devsonket.com/java-cheat-sheet/)
 
+## Web Development
+* [Web Development Resources](https://github.com/markodenic/web-development-resources)
+
 ## HTML/CSS
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
 * [Free Programming Books on HTML/CSS](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#html--css)
