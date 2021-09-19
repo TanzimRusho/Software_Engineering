@@ -19,6 +19,7 @@ Links to different tech blogs and articles.
 * [Single Responsibility Principle (SRP) in Python](https://renanmf.com/single-responsibility-principle-in-python/)
 * [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
 * [30 seconds of Python](https://github.com/30-seconds/30-seconds-of-python)
+* [Python 3 Cheatsheet | Devsonket](https://devsonket.com/python3-cheat-sheet/)
 
 ## Flask
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 
