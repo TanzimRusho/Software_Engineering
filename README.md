@@ -132,7 +132,9 @@ Links to different tech blogs and articles.
 2. [29 Projects To Help You Practice HTML CSS Javascript 2021](https://www.niemvuilaptrinh.com/article/29-project-giup-ban-thuc-hanh-html-css-javascript-2021)
 
 ## API Development
-1. [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+* [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+
+* [Working with APIs](https://launchschool.com/books/working_with_apis)
 
 ## Web Scraping
 1. [Building a Web Scraper with Python in 30 minutes](https://morioh.com/p/af25684f4605?f=5c21fb01c16e2556b555ab32)
