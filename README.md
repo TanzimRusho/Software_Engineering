@@ -22,6 +22,7 @@ Links to different tech blogs and articles.
 
 ## Flask
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 
+* [Flask Documentation | PalletsProjects](https://flask.palletsprojects.com/en/2.0.x/)
 
 ## Artificial Intelligence
 * [Bengali AI](https://bengali.ai/)
