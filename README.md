@@ -91,6 +91,9 @@ Links to different tech blogs and articles.
 ## Node.js
 * [Free Programming Books on Node.js](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#nodejs)
 
+## React.js
+* [Free Programming Books on React.js](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#react)
+
 ## C++
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
