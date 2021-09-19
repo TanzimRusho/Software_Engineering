@@ -205,7 +205,8 @@ Links to different tech blogs and articles.
 2. [Developer Roadmap 2021 | Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Coding Interview
-1. [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
+* [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
+* [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ## Technical Writing
 1. [APA - Referencing Guide](https://libguides.murdoch.edu.au/APA)
