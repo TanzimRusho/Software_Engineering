@@ -157,6 +157,7 @@ Links to different tech blogs and articles.
 ## Software Engineering
 * [SOLID](https://en.wikipedia.org/wiki/SOLID)
 * [Free Programming Books | Professional Development](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#professional-development)
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Software Testing
 1. [How to Write Good Software Tests](https://dev.to/dinamlev/your-check-engine-light-is-on-how-to-write-good-software-tests-e05)
