@@ -141,6 +141,8 @@ Links to different tech blogs and articles.
 
 8. [MATHEMATICS FOR TOPCODERS](https://www.topcoder.com/thrive/articles/Mathematics%20for%20Topcoders)
 
+9. [Competitive Programming - A Complete Guideline](https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline)
+
 ## Android Development
 1. [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
 
