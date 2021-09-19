@@ -97,6 +97,9 @@ Links to different tech blogs and articles.
 ## Flutter
 * [Flutter Cookbook](https://flutter.dev/docs/cookbook)
 
+# NoSQL
+* [Free Programming Books on NoSQL](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#nosql)
+
 ## Projects
 1. [BUET Zenith | Orbital Sky](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project)
 
