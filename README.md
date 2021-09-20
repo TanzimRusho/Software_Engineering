@@ -53,6 +53,7 @@ Links to different tech blogs and articles.
 
 # TensorFlow
 * [Learn TensorFlow](https://bitbucket.org/hrojas/learn-tensorflow/src/master/)
+* [Model-Sub-Classing-and-Custom-Training-Loop-from-Scratch-in-TensorFlow 2](https://innat.github.io/Model-Sub-Classing-and-Custom-Training-Loop-from-Scratch-in-TensorFlow-2/)
 
 ## Deep Learning
 * [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
