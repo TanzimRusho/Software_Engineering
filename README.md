@@ -198,27 +198,25 @@ Links to different tech blogs and articles.
 * [Git Cheatsheet](https://devsonket.com/git-cheat-sheet/)
 
 ## Career Path
-1. [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
-
-2. [Developer Roadmap 2021 | Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)
+* [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
+* [Developer Roadmap 2021 | Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Coding Interview
 * [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ## Technical Writing
-1. [APA - Referencing Guide](https://libguides.murdoch.edu.au/APA)
+* [APA - Referencing Guide](https://libguides.murdoch.edu.au/APA)
 
 ## Portfolio
-1. [Creating a simple and effective academic personal website](https://www.elsevier.com/connect/creating-a-simple-and-effective-academic-personal-website)
-
-2. [What are the best options for creating a personal website to showcase your research?](https://www.researchgate.net/post/What-are-the-best-options-for-creating-a-personal-website-to-showcase-your-research)
-
-3. [Portfolio Website using HTML, CSS & Javascript | Responsive](https://morioh.com/p/e8f68498ef19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0zhLWN6vpGa9d0UBf4I5QeXYXLU6au2ucfrnXMUaAFXtGRDuEHsAET-uM)
+* [Creating a simple and effective academic personal website](https://www.elsevier.com/connect/creating-a-simple-and-effective-academic-personal-website)
+* [What are the best options for creating a personal website to showcase your research?](https://www.researchgate.net/post/What-are-the-best-options-for-creating-a-personal-website-to-showcase-your-research)
+* [Portfolio Website using HTML, CSS & Javascript | Responsive](https://morioh.com/p/e8f68498ef19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0zhLWN6vpGa9d0UBf4I5QeXYXLU6au2ucfrnXMUaAFXtGRDuEHsAET-uM)
 
 ## Tools
 * [Wecompress (Online File Compressor)](https://www.wecompress.com/en/)
 * [True Caller](https://www.truecaller.com)
+* [How To Increase Mobile Hotspot Speed On Android](https://www.investintech.com/resources/blog/archives/10144-increase-mobile-speed-android.html)
 
 ## Copyright Laws
-1. [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
+* [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
