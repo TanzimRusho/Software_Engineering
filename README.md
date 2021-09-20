@@ -46,6 +46,7 @@ Links to different tech blogs and articles.
 * [Create a model for predicting orthopedic pathology using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-a-model-for-predicting-orthopedic-pathology-using-amazon-sagemaker/)
 * [Making accurate energy consumption predictions with Amazon Forecast](https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/)
 * [Multi-Class Image Classification With Transfer Learning In PySpark](https://dev.to/innat/multi-class-image-classification-with-transfer-learning-in-pyspark-40i2)
+* [Regression Metrics for Machine Learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
 
 ## Image Processing
 * [Basic Image Processing In Python - Part 1](https://innat.github.io/Image-Processing-in-Python-Part-1/)
@@ -81,27 +82,17 @@ Links to different tech blogs and articles.
 * [Free Programming Books on Laravel](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#laravel)
 
 ## JavaScript
-1. [Arithmetic operation from input numbers](https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32)
-
-2. [how to create a Realtime Chat App with NodeJS and Pusher](https://morioh.com/p/767765e90c61?f=5c21fb01c16e2556b555ab32)
-
-3. [10 Simple JavaScript Projects for Beginners](https://morioh.com/p/feadd995ec2e?f=5c21fb01c16e2556b555ab32)
-
-4. [Build Weather App Using HTML, CSS, Bootstrap, and Modern JavaScript](https://morioh.com/p/7ee6b0b1531f?f=5c7364649bd9694dcea8f9e1)
-
-5. [ReactJS Roadmap for Beginners](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
-
-6. [Basic Concepts of Node.js](https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch)
-
-7. [How to hide and show DIV element using JavaScript](https://morioh.com/p/eff8ae2b63de?f=60c59d87cb33627fbcc0a0f3)
-
-8. [Email Validation with JavaScript](https://morioh.com/p/a4caffb57bd4?f=5c21fb01c16e2556b555ab32)
-
-9. [Learn Promise, Async/Await with 4 tasks in 20 minutes 2021 | JavaScript Tutorial](https://morioh.com/p/7fd794eb128f?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1W3jirj8s_n89pdOLUXAnGirySK_7bqGN4AbLiCfrFyomcBbiVm1Vj8_k)
-
-10. [How JavaScript Works | Visually Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
-
-11. [20 JavaScript: Array Methods](https://morioh.com/p/d05e069353a9?f=5c21fb01c16e2556b555ab32)
+* [Arithmetic operation from input numbers](https://morioh.com/p/59a872686207?f=5c21fb01c16e2556b555ab32)
+* [how to create a Realtime Chat App with NodeJS and Pusher](https://morioh.com/p/767765e90c61?f=5c21fb01c16e2556b555ab32)
+* [10 Simple JavaScript Projects for Beginners](https://morioh.com/p/feadd995ec2e?f=5c21fb01c16e2556b555ab32)
+* [Build Weather App Using HTML, CSS, Bootstrap, and Modern JavaScript](https://morioh.com/p/7ee6b0b1531f?f=5c7364649bd9694dcea8f9e1)
+* [ReactJS Roadmap for Beginners](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
+* [Basic Concepts of Node.js](https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch)
+* [How to hide and show DIV element using JavaScript](https://morioh.com/p/eff8ae2b63de?f=60c59d87cb33627fbcc0a0f3)
+* [Email Validation with JavaScript](https://morioh.com/p/a4caffb57bd4?f=5c21fb01c16e2556b555ab32)
+* [Learn Promise, Async/Await with 4 tasks in 20 minutes 2021 | JavaScript Tutorial](https://morioh.com/p/7fd794eb128f?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1W3jirj8s_n89pdOLUXAnGirySK_7bqGN4AbLiCfrFyomcBbiVm1Vj8_k)
+* [How JavaScript Works | Visually Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
+* [20 JavaScript: Array Methods](https://morioh.com/p/d05e069353a9?f=5c21fb01c16e2556b555ab32)
 
 ## Node.js
 * [Free Programming Books on Node.js](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#nodejs)
