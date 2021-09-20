@@ -53,7 +53,7 @@ Links to different tech blogs and articles.
 * [Basic Image Processing In Python - Part 1](https://innat.github.io/Image-Processing-in-Python-Part-1/)
 * [Basic Image Processing In Python - Part 2](https://innat.github.io/Image-Processing-in-Python-Part-2/)
 
-# TensorFlow
+## TensorFlow
 * [Learn TensorFlow](https://bitbucket.org/hrojas/learn-tensorflow/src/master/)
 * [Model-Sub-Classing-and-Custom-Training-Loop-from-Scratch-in-TensorFlow 2](https://innat.github.io/Model-Sub-Classing-and-Custom-Training-Loop-from-Scratch-in-TensorFlow-2/)
 
@@ -111,10 +111,10 @@ Links to different tech blogs and articles.
 * [Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter Tutorial's Handbook](https://kodestat.gitbook.io/flutter/)
 
-# Database
+## Database
 * [Free Programming Books on Database](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#database)
 
-# NoSQL
+## NoSQL
 * [Free Programming Books on NoSQL](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#nosql)
 
 ## Projects
@@ -135,14 +135,12 @@ Links to different tech blogs and articles.
 * [CS 97SI: Introduction to Programming Contests - Stanford](http://web.stanford.edu/class/cs97si/)
 
 ## Android Development
-1. [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
-
-2. [Java, অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ও Android - shikkhok.com](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/java-android-101/)
+* [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
+* [Java, অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ও Android - shikkhok.com](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/java-android-101/)
 
 ## Front End Development 
-1. [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
-
-2. [29 Projects To Help You Practice HTML CSS Javascript 2021](https://www.niemvuilaptrinh.com/article/29-project-giup-ban-thuc-hanh-html-css-javascript-2021)
+* [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
+* [29 Projects To Help You Practice HTML CSS Javascript 2021](https://www.niemvuilaptrinh.com/article/29-project-giup-ban-thuc-hanh-html-css-javascript-2021)
 
 ## API Development
 * [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
@@ -157,18 +155,17 @@ Links to different tech blogs and articles.
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ## Software Testing
-1. [How to Write Good Software Tests](https://dev.to/dinamlev/your-check-engine-light-is-on-how-to-write-good-software-tests-e05)
+* [How to Write Good Software Tests](https://dev.to/dinamlev/your-check-engine-light-is-on-how-to-write-good-software-tests-e05)
 
 ## DevOps
-1. [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers?utm_medium=social_paid&utm_source=facebook&utm_campaign=global_k8s_content_en_clicks&utm_content=content&fbclid=IwAR299H6Vu03lOIYEFeqsBuuDVjo5ondMLFghh71Y-1NL0NW0mB7IipbOsuc)
+* [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers?utm_medium=social_paid&utm_source=facebook&utm_campaign=global_k8s_content_en_clicks&utm_content=content&fbclid=IwAR299H6Vu03lOIYEFeqsBuuDVjo5ondMLFghh71Y-1NL0NW0mB7IipbOsuc)
 
 ## Database
-1. [Zahid Hossain's BI Blog](https://zahidbi.com/)
+* [Zahid Hossain's BI Blog](https://zahidbi.com/)
 
 ## Networks and Communications
-1. [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
-
-2. [A Simple Explanation of a 502 Bad Gateway Error & How to Resolve It](https://blog.hubspot.com/marketing/502-bad-gateway)
+* [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
+* [A Simple Explanation of a 502 Bad Gateway Error & How to Resolve It](https://blog.hubspot.com/marketing/502-bad-gateway)
 
 ## Security
 * [Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
@@ -176,19 +173,16 @@ Links to different tech blogs and articles.
 * [Free Programming Books on Security](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#security)
 
 ## Computer Architecture
-1. [Cylinder-head-sector](https://en.wikipedia.org/wiki/Cylinder-head-sector)
-
-2. [Magnetic Disk | Practice Problems | COA](https://www.gatevidyalay.com/magnetic-disk-practice-problems-coa/)
+* [Cylinder-head-sector](https://en.wikipedia.org/wiki/Cylinder-head-sector)
+* [Magnetic Disk | Practice Problems | COA](https://www.gatevidyalay.com/magnetic-disk-practice-problems-coa/)
 
 ## Electronics
-1. [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
-
-2. [এলইডি কম শক্তিতে এত বেশি আলো দেয় কীভাবে?](https://www.kishoralo.com/feature/%E0%A6%8F%E0%A6%B2%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%95%E0%A6%AE-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A7%9F-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87?fbclid=IwAR2mpRIo-86zdUvVezRl_r3KLueGQ20lii1hVhPGiR-U7pk9elmtpNiLXxI)
+* [Rolling Shutter versus Global Shutter](https://www.bhphotovideo.com/explora/video/tips-and-solutions/rolling-shutter-versus-global-shutter)
+* [এলইডি কম শক্তিতে এত বেশি আলো দেয় কীভাবে?](https://www.kishoralo.com/feature/%E0%A6%8F%E0%A6%B2%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%95%E0%A6%AE-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A7%9F-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87?fbclid=IwAR2mpRIo-86zdUvVezRl_r3KLueGQ20lii1hVhPGiR-U7pk9elmtpNiLXxI)
 
 ## Developers' Community
-1. [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
-
-2. [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com/)
+* [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
+* [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com/)
 
 ## GitHub
 * [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
