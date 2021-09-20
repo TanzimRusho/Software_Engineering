@@ -47,6 +47,7 @@ Links to different tech blogs and articles.
 * [Making accurate energy consumption predictions with Amazon Forecast](https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/)
 * [Multi-Class Image Classification With Transfer Learning In PySpark](https://dev.to/innat/multi-class-image-classification-with-transfer-learning-in-pyspark-40i2)
 * [Regression Metrics for Machine Learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
+* [Protecting people from hazardous areas through virtual boundaries with Computer Vision](https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/)
 
 ## Image Processing
 * [Basic Image Processing In Python - Part 1](https://innat.github.io/Image-Processing-in-Python-Part-1/)
