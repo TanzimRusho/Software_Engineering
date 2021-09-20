@@ -11,7 +11,7 @@ Links to different tech blogs and articles.
 * [How to format a floating number in Python](https://www.kite.com/python/answers/how-to-format-a-floating-number-in-python)
 * [10 Must Know Python Basics](https://morioh.com/p/deaacc51d64c?f=5c21fb01c16e2556b555ab32)
 * [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
-* [Python DS Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
+* [Python Data Science Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
 * [Python Program to Generate Random binary string](https://www.geeksforgeeks.org/python-program-to-generate-random-binary-string/)
 * [Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
 * [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
