@@ -45,6 +45,11 @@ Links to different tech blogs and articles.
 * [Free Programming Books | Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#machine-learning)
 * [Create a model for predicting orthopedic pathology using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-a-model-for-predicting-orthopedic-pathology-using-amazon-sagemaker/)
 * [Making accurate energy consumption predictions with Amazon Forecast](https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/)
+* [Multi-Class Image Classification With Transfer Learning In PySpark](https://dev.to/innat/multi-class-image-classification-with-transfer-learning-in-pyspark-40i2)
+
+## Image Processing
+* [Basic Image Processing In Python - Part 1](https://innat.github.io/Image-Processing-in-Python-Part-1/)
+* [Basic Image Processing In Python - Part 2](https://innat.github.io/Image-Processing-in-Python-Part-2/)
 
 # TensorFlow
 * [Learn TensorFlow](https://bitbucket.org/hrojas/learn-tensorflow/src/master/)
