@@ -43,6 +43,8 @@ Links to different tech blogs and articles.
 * [Bias-Variance Tradeoff - Wikipedia](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
 * [Build a model to predict the impact of weather on urban air quality using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/)
 * [Free Programming Books | Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#machine-learning)
+* [Create a model for predicting orthopedic pathology using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-a-model-for-predicting-orthopedic-pathology-using-amazon-sagemaker/)
+* [Making accurate energy consumption predictions with Amazon Forecast](https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/)
 
 # TensorFlow
 * [Learn TensorFlow](https://bitbucket.org/hrojas/learn-tensorflow/src/master/)
