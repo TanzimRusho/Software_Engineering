@@ -41,9 +41,6 @@ Links to different tech blogs and articles.
 ## React.js
 * [Free Programming Books on React.js](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#react)
 
-## C++
-* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-
 ## ASP.NET
 * [ASP.NET | Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#aspnet)
 
