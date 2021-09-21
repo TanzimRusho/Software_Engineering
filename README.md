@@ -63,19 +63,6 @@ Links to different tech blogs and articles.
 * [GitHub Stats](https://github.com/jackiehluo/github-stats)
 * [18 Amazing GitHub Projects](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)
 
-## Competitive Programming
-* [Competitive Programming - Some causes of Wrong Answer verdict](https://tahanima.github.io/2019/08/14/competitive-programming-some-causes-of-wa-verdict/) 
-* [Competitive Learning in Informatics: The UVa Online Judge Experience](https://ioinformatics.org/journal/INFOL035.pdf) 
-* [Analyzing Programming Contest Statistics](http://ioi.te.lv/workshop/dagstuhl_2006/RevisedPapers/13_Manzoor_rev-better.pdf)   
-* [Common Mistakes in Online and Real-time Contests](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.848.2707&rep=rep1&type=pdf)
-* [A Survey on Online Judge Systems and Their Applications](https://arxiv.org/pdf/1710.05913.pdf)
-* [UVa Solves from quickgrid (Asif Ahmed)](https://quickgrid.wordpress.com/category/online-judges/uva/)
-* [Minimum delete operations to make all elements of array same](https://www.geeksforgeeks.org/minimum-delete-operations-make-elements-array/)
-* [MATHEMATICS FOR TOPCODERS](https://www.topcoder.com/thrive/articles/Mathematics%20for%20Topcoders)
-* [Competitive Programming - A Complete Guideline](https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline)
-* [CS 97SI: Introduction to Programming Contests - Stanford](http://web.stanford.edu/class/cs97si/)
-* [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://shahjalalshohag.github.io/blog/topic-list/)
-
 ## Android Development
 * [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
 * [Java, অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ও Android - shikkhok.com](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/java-android-101/)
