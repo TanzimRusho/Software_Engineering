@@ -21,6 +21,9 @@ Links to different tech blogs and articles.
 * [30 seconds of Python](https://github.com/30-seconds/30-seconds-of-python)
 * [Python 3 Cheatsheet | Devsonket](https://devsonket.com/python3-cheat-sheet/)
 
+## Automation
+* [Awesome Python Automation Ideas](https://morioh.com/p/21773febd0db?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0eMoju9iNz9qfNM3_jew8-9_RvbS23iwmNJeddGesAxWghK9GcNdC8LUA)
+
 ## Flask
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 
 * [Flask Documentation | PalletsProjects](https://flask.palletsprojects.com/en/2.0.x/)
