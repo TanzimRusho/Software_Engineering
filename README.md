@@ -30,6 +30,9 @@ Links to different tech blogs and articles.
 * [Flask Documentation | PalletsProjects](https://flask.palletsprojects.com/en/2.0.x/)
 * [Explore Flask Book](https://exploreflask.com/en/latest/)
 
+## Streamlit
+* [Build A Machine Learning Web App from Scratch](https://morioh.com/p/28f32a0d90a2?f=5c21fb01c16e2556b555ab32)
+
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
 
