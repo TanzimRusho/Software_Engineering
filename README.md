@@ -18,7 +18,7 @@ Links to different tech blogs and articles.
 * [OTP Generator Project in Python](https://morioh.com/p/1f268d5fa7a3?f=5c21fb01c16e2556b555ab32)
 * [Single Responsibility Principle (SRP) in Python](https://renanmf.com/single-responsibility-principle-in-python/)
 * [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
-* [30 seconds of Python](https://github.com/30-seconds/30-seconds-of-python)
+* [30 seconds of Python - GitHub Repository](https://github.com/30-seconds/30-seconds-of-python)
 * [Python 3 Cheatsheet | Devsonket](https://devsonket.com/python3-cheat-sheet/)
 * [How to Check if a File or Directory Exists in Python](https://linuxize.com/post/python-check-if-file-exists/)
 
