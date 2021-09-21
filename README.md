@@ -1,5 +1,5 @@
 # Useful Blogs and Articles
-Links to different tech blogs and articles. 
+Links to different tech blogs, repos and articles. 
 
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
