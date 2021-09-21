@@ -1,75 +1,8 @@
 # Useful Blogs and Articles
-Links to different tech blogs and articles.
-
-## Python
-* [Read JSON file using Python](https://www.geeksforgeeks.org/read-json-file-using-python/?ref=leftbar-rightbar)
-* [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html?fbclid=IwAR1AW59b_k1XjGwj89NQ7yn1gX9oYXIwmg1mptGHJo_yf4S4W3tYQRq-FOc)
-* [Python get key from value in dictionary](https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/)
-* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-* [Python Dictionary Comprehension](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
-* [Security Camera with Python](https://morioh.com/p/1066401e3906?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0AA-x4r8r7bJkMwcTYXkuKJF7szYHsff3pvk0bEFsY5U8tK0Nl7fQHWQM)
-* [How to format a floating number in Python](https://www.kite.com/python/answers/how-to-format-a-floating-number-in-python)
-* [10 Must Know Python Basics](https://morioh.com/p/deaacc51d64c?f=5c21fb01c16e2556b555ab32)
-* [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
-* [Python Data Science Handbook - Index](https://github.com/TanzimRusho/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)
-* [Python Program to Generate Random binary string](https://www.geeksforgeeks.org/python-program-to-generate-random-binary-string/)
-* [Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
-* [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
-* [OTP Generator Project in Python](https://morioh.com/p/1f268d5fa7a3?f=5c21fb01c16e2556b555ab32)
-* [Single Responsibility Principle (SRP) in Python](https://renanmf.com/single-responsibility-principle-in-python/)
-* [Populate data-frame faster- [from 4 hours to 15 second]](https://dev.to/imsazzad/populate-data-frame-faster-from-4-hours-to-15-second-557e)
-* [30 seconds of Python - GitHub Repository](https://github.com/30-seconds/30-seconds-of-python)
-* [Python 3 Cheatsheet | Devsonket](https://devsonket.com/python3-cheat-sheet/)
-* [How to Check if a File or Directory Exists in Python](https://linuxize.com/post/python-check-if-file-exists/)
-
-## Automation
-* [Awesome Python Automation Ideas](https://morioh.com/p/21773febd0db?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0eMoju9iNz9qfNM3_jew8-9_RvbS23iwmNJeddGesAxWghK9GcNdC8LUA)
-
-## Flask
-* [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 
-* [Flask Documentation | PalletsProjects](https://flask.palletsprojects.com/en/2.0.x/)
-* [Explore Flask Book](https://exploreflask.com/en/latest/)
-
-## Streamlit
-* [Build A Machine Learning Web App from Scratch](https://morioh.com/p/28f32a0d90a2?f=5c21fb01c16e2556b555ab32)
+Links to different tech blogs and articles. 
 
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
-
-## Artificial Intelligence
-* [Bengali AI](https://bengali.ai/)
-* [Financial AI Assistant in Python](https://morioh.com/p/a54ad25c873e?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1p_RYOEZ4nvOXB8RFipLf3f_6r3KCAdSEhajySdFqX7S_STkJsYv7qcG4)
-
-## Machine Learning
-* [Machine Learning Projects in Python](https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python?utm_source=Blg416&utm_medium=ConvertLink&utm_campaign=TextCTA)
-* [TensorFlow Object Detection in 5 Hours](https://morioh.com/p/394e0ce5e3ac?f=5c21fb01c16e2556b555ab32)
-* [Python Flask Machine Learning Web App](https://morioh.com/p/477c60bda27f?f=5c21fb01c16e2556b555ab32)
-* [Lex Fridman Google Scholar](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en)
-* [Machine Learning Books](https://www.techprofree.com/category/books/)
-* [Flagging suspicious healthcare claims with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/)
-* [Bias-Variance Tradeoff - Wikipedia](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
-* [Build a model to predict the impact of weather on urban air quality using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/)
-* [Free Programming Books | Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#machine-learning)
-* [Create a model for predicting orthopedic pathology using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/create-a-model-for-predicting-orthopedic-pathology-using-amazon-sagemaker/)
-* [Making accurate energy consumption predictions with Amazon Forecast](https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/)
-* [Multi-Class Image Classification With Transfer Learning In PySpark](https://dev.to/innat/multi-class-image-classification-with-transfer-learning-in-pyspark-40i2)
-* [Regression Metrics for Machine Learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
-* [Protecting people from hazardous areas through virtual boundaries with Computer Vision](https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/)
-
-## Image Processing
-* [Basic Image Processing In Python - Part 1](https://innat.github.io/Image-Processing-in-Python-Part-1/)
-* [Basic Image Processing In Python - Part 2](https://innat.github.io/Image-Processing-in-Python-Part-2/)
-
-## TensorFlow
-* [Learn TensorFlow](https://bitbucket.org/hrojas/learn-tensorflow/src/master/)
-* [Model-Sub-Classing-and-Custom-Training-Loop-from-Scratch-in-TensorFlow 2](https://innat.github.io/Model-Sub-Classing-and-Custom-Training-Loop-from-Scratch-in-TensorFlow-2/)
-
-## Deep Learning
-* [Rakibul Hassan Deep Learning Book](https://rakibul-hassan.gitbook.io/deep-learning/)
-
-## Computer Vision
-* [কম্পিউটার ভিশন পরিচিতি](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/computer-vision/)
-* [Free Programming Books | Computer Vision](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#computer-vision)
 
 ## Java
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -154,9 +87,6 @@ Links to different tech blogs and articles.
 ## API Development
 * [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 * [Working with APIs](https://launchschool.com/books/working_with_apis)
-
-## Web Scraping
-* [Building a Web Scraper with Python in 30 minutes](https://morioh.com/p/af25684f4605?f=5c21fb01c16e2556b555ab32)
 
 ## Software Engineering
 * [SOLID](https://en.wikipedia.org/wiki/SOLID)
