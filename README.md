@@ -4,13 +4,6 @@ Links to different tech blogs, repos and articles.
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
 
-## Java
-* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-* [java.math Class BigInteger](https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html#isProbablePrime%28int%29)
-* [Reverse a string in Java](https://www.geeksforgeeks.org/reverse-a-string-in-java/)
-* [Java Static Variables and Methods](https://www.guru99.com/java-static-variable-methods.html)
-* [Java Cheatsheet | Devsonket](https://devsonket.com/java-cheat-sheet/)
-
 ## Web Development
 * [Web Development Resources](https://github.com/markodenic/web-development-resources)
 
