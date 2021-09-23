@@ -27,6 +27,7 @@ Links to different tech blogs, repos and articles.
 * [Learn Promise, Async/Await with 4 tasks in 20 minutes 2021 | JavaScript Tutorial](https://morioh.com/p/7fd794eb128f?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1W3jirj8s_n89pdOLUXAnGirySK_7bqGN4AbLiCfrFyomcBbiVm1Vj8_k)
 * [How JavaScript Works | Visually Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
 * [20 JavaScript: Array Methods](https://morioh.com/p/d05e069353a9?f=5c21fb01c16e2556b555ab32)
+* [20 Killer JavaScript One Liners](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
 
 ## Node.js
 * [Free Programming Books on Node.js](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#nodejs)
