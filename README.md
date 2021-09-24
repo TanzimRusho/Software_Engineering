@@ -57,6 +57,7 @@ Links to different tech blogs, repos and articles.
 ## Android Development
 * [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
 * [Java, অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ও Android - shikkhok.com](http://shikkhok.com/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE/java-android-101/)
+* [Position sensors](https://developer.android.com/guide/topics/sensors/sensors_position)
 
 ## Front End Development 
 * [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
