@@ -11,6 +11,7 @@ Links to different tech blogs, repos and articles.
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
 * [Free Programming Books on HTML/CSS](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#html--css)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+* [7 useful HTML attributes you may not know](https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn)
 
 ## Laravel
 * [Free Programming Books on Laravel](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#laravel)
