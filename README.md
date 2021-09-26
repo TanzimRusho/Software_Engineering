@@ -29,6 +29,7 @@ Links to different tech blogs, repos and articles.
 * [How JavaScript Works | Visually Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
 * [20 JavaScript: Array Methods](https://morioh.com/p/d05e069353a9?f=5c21fb01c16e2556b555ab32)
 * [20 Killer JavaScript One Liners](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
+* [How to Build a Screen Recorder like OBS in JavaScript](https://morioh.com/p/51a535931efe?f=5fb87da6254e3d21e8758082)
 
 ## Node.js
 * [Free Programming Books on Node.js](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#nodejs)
