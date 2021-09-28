@@ -4,7 +4,7 @@ Links to different tech blogs, repos and articles.
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
 * [Python Django Course for Beginners](https://morioh.com/p/b008db3518e6)
-* [How to deploy a Django project on Apps platform](https://www.digitalocean.com/community/tutorials/how-to-deploy-django-to-app-platform?utm_medium=social_paid&utm_source=facebook&utm_campaign=global_app-platform_content_en_clicks&utm_content=content&fbclid=IwAR3LdkxxBmsTuK6aLnp85mZ1VRw-8uQ7pRU21jyRQKR3z6lvgCXlX9mMvho)
+* [How To Deploy a Django App on App Platform](https://www.digitalocean.com/community/tutorials/how-to-deploy-django-to-app-platform?utm_medium=social_paid&utm_source=facebook&utm_campaign=global_app-platform_content_en_clicks&utm_content=content&fbclid=IwAR3LdkxxBmsTuK6aLnp85mZ1VRw-8uQ7pRU21jyRQKR3z6lvgCXlX9mMvho)
 
 ## Web Development
 * [Web Development Resources](https://github.com/markodenic/web-development-resources)
