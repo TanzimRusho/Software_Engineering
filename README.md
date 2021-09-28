@@ -108,6 +108,7 @@ Links to different tech blogs, repos and articles.
 * [Free Programming Books | Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#git)
 * [Git Cheatsheet](https://devsonket.com/git-cheat-sheet/)
 * [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
+* [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
 
 ## Career Path
 * [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
