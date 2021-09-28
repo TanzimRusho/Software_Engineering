@@ -3,7 +3,9 @@ Links to different tech blogs, repos and articles.
 
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
+* [Python Django Course for Beginners](https://morioh.com/p/b008db3518e6)
 
+#django #python #webdevelopment 
 ## Web Development
 * [Web Development Resources](https://github.com/markodenic/web-development-resources)
 
