@@ -1,5 +1,4 @@
-# Useful Blogs and Articles
-Links to different tech blogs, repos and articles. 
+# Useful Blogs and Articles related to Software Engineering
 
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
