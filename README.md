@@ -14,6 +14,7 @@ Links to different tech blogs, repos and articles.
 * [Free Programming Books on HTML/CSS](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#html--css)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [7 useful HTML attributes you may not know](https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn)
+* [Build Responsive Admin Dashboard using CSS & Javascript Html](https://morioh.com/p/bc9583a85803?f=5eba5842444df05d1248ec97)
 
 ## Laravel
 * [Free Programming Books on Laravel](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#laravel)
