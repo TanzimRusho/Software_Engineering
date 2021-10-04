@@ -120,6 +120,9 @@
 * [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
 * [Developer Roadmap 2021 | Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)
 
+## Online Courses
+* [Writing READMEs | Udacity](https://classroom.udacity.com/courses/ud777)
+
 ## Coding Interview
 * [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
