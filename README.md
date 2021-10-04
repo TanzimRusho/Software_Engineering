@@ -1,12 +1,24 @@
 # Useful Blogs and Articles related to Software Engineering
 
+## Copyright Laws
+* [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
+
 ## Django
 * [Free Programming Books on Django](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#django)
 * [Python Django Course for Beginners](https://morioh.com/p/b008db3518e6)
 * [How To Deploy a Django App on App Platform](https://www.digitalocean.com/community/tutorials/how-to-deploy-django-to-app-platform?utm_medium=social_paid&utm_source=facebook&utm_campaign=global_app-platform_content_en_clicks&utm_content=content&fbclid=IwAR3LdkxxBmsTuK6aLnp85mZ1VRw-8uQ7pRU21jyRQKR3z6lvgCXlX9mMvho)
 
-## Web Development
-* [Web Development Resources](https://github.com/markodenic/web-development-resources)
+## GitHub
+* [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
+* [How to write git commit message](https://chris.beams.io/posts/git-commit/)
+* [10 github repositories you should know as developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
+* [Free Programming Books | Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#git)
+* [Git Cheatsheet](https://devsonket.com/git-cheat-sheet/)
+* [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
+* [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
+* [Git tutorial | freeCodeCamp](https://youtu.be/Uszj_k0DGsg)
+* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* [About merge conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
 
 ## HTML/CSS
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
@@ -104,17 +116,6 @@
 * [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
 * [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com/)
 
-## GitHub
-* [Managing Non-code Projects with GitHub](https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.html)
-* [How to write git commit message](https://chris.beams.io/posts/git-commit/)
-* [10 github repositories you should know as developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
-* [Free Programming Books | Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#git)
-* [Git Cheatsheet](https://devsonket.com/git-cheat-sheet/)
-* [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
-* [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
-* [Git tutorial | freeCodeCamp](https://youtu.be/Uszj_k0DGsg)
-* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-
 ## Career Path
 * [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
 * [Developer Roadmap 2021 | Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap)
@@ -136,5 +137,5 @@
 * [True Caller](https://www.truecaller.com)
 * [How To Increase Mobile Hotspot Speed On Android](https://www.investintech.com/resources/blog/archives/10144-increase-mobile-speed-android.html)
 
-## Copyright Laws
-* [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
+## Web Development
+* [Web Development Resources](https://github.com/markodenic/web-development-resources)
