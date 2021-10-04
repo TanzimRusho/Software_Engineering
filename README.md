@@ -113,6 +113,7 @@
 * [Combining two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
 * [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
 * [Git tutorial | freeCodeCamp](https://youtu.be/Uszj_k0DGsg)
+* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Career Path
 * [To Become a Certified Project Management Professional](https://renanmf.com/how-i-became-a-certified-project-management-professional-pmp-by-the-pmi-in-2-months/)
