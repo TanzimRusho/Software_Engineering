@@ -19,6 +19,7 @@
 * [Git tutorial | freeCodeCamp](https://youtu.be/Uszj_k0DGsg)
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 * [About merge conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+* [Next Level GitHub Profile README | YouTube](https://youtu.be/ECuqb5Tv9qI)
 
 ## HTML/CSS
 * [HTML Cheatsheet | Devsonket](https://devsonket.com/html/)
