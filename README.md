@@ -83,6 +83,7 @@
 ## API Development
 * [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 * [Working with APIs](https://launchschool.com/books/working_with_apis)
+* [APIs for Beginners](https://youtu.be/GZvSYJDk-us)
 
 ## Software Engineering
 * [SOLID](https://en.wikipedia.org/wiki/SOLID)
