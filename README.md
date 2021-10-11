@@ -27,6 +27,7 @@
 
 ## Copyright Laws
 * [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)
+* [The MIT License](https://opensource.org/licenses/MIT)
 
 ## Developers' Community
 * [Why I Joined Dev.to Community And You Should Too](https://dev.to/bauripalash/why-i-joined-devto-community-and-you-should-too-44bn)
