@@ -98,6 +98,9 @@
 ## Laravel
 * [Free Programming Books on Laravel](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#laravel)
 
+## Linux
+* [The Complete Linux Course](https://youtu.be/wBp0Rb-ZJak)
+
 ## Networks and Communications
 * [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
 * [A Simple Explanation of a 502 Bad Gateway Error & How to Resolve It](https://blog.hubspot.com/marketing/502-bad-gateway)
