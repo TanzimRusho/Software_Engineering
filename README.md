@@ -100,6 +100,7 @@
 
 ## Linux
 * [The Complete Linux Course](https://youtu.be/wBp0Rb-ZJak)
+* [How to resolve the "Permission Denied" error in Linux](https://www.educative.io/edpresso/how-to-resolve-the-permission-denied-error-in-linux)
 
 ## Networks and Communications
 * [How to Find Your IP Address on Windows or Mac](https://www.avast.com/c-how-to-find-ip-address)
