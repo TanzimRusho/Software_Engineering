@@ -35,6 +35,7 @@
 * [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com/)
 
 ## Database
+* [Database Systems | Cornell University Course](https://youtu.be/4cWkVbC2bNE)7
 * [Free Programming Books on Database](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#database)
 * [Zahid Hossain's BI Blog](https://zahidbi.com/)
 
