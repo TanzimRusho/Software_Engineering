@@ -1,4 +1,4 @@
-# Useful Blogs and Articles related to Software Engineering (Topics are arranged alphabetically)
+# Useful Blogs and Videos related to Software Engineering (Topics are arranged alphabetically)
 
 ## Android Development
 * [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
