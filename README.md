@@ -1,4 +1,4 @@
-# Useful Blogs and Articles related to Software Engineering
+# Useful Blogs and Articles related to Software Engineering (Topics are arranged alphabetically)
 
 ## Android Development
 * [Android Development Guideline (Bangla)](https://hellohasan.com/2017/07/16/android-app-development-guideline/)
@@ -154,3 +154,4 @@
 
 ## Web Development
 * [Web Development Resources](https://github.com/markodenic/web-development-resources)
+* [কীভাবে cookie দিয়ে ফেসবুক আমাদের ট্র‍্যাক করে?](https://youtu.be/EbnVK8A8k90)
